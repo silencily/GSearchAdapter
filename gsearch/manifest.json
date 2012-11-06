@@ -1,0 +1,8 @@
+{
+"name": "Google Search Result URL Adapter",
+"version": "1.0",
+"manifest_version": 2,
+"description": "Auto change 'http' into 'https' for google search url prefix.",
+"background": { "scripts": ["bg.js"] },
+"permissions": ["tabs"]
+}
